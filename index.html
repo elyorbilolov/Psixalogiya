@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psixologiya Quiz - Fanlar</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="top-controls">
+        <button class="high-scores-btn" onclick="toggleHighScores()">
+            <i class="fas fa-trophy"></i> &nbsp; Natijalar
+        </button>
+        <button class="theme-toggle" onclick="toggleTheme()" id="theme-btn">
+            <i class="fas fa-moon"></i>
+        </button>
+    </div>
+
+    <div class="container" id="app">
+        <!-- Subject Selection View -->
+        <div id="subject-view">
+            <h1>Psixologiya Fanlari</h1>
+            <p>Bilimingizni sinab ko'rish uchun fanni tanlang:</p>
+            
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="selectSubject('Psixologik xizmat ko\'rsatish asoslari')">
+                    <h3>Psixologik xizmat ko'rsatish asoslari</h3>
+                    <div class="meta">150 savol</div>
+                </div>
+                <div class="subject-card" onclick="selectSubject('Oila psixologiyasi')">
+                    <h3>Oila psixologiyasi</h3>
+                    <div class="meta">150 savol</div>
+                </div>
+                <div class="subject-card" onclick="selectSubject('Kreativ pedagogika')">
+                    <h3>Kreativ pedagogika</h3>
+                    <div class="meta">150 savol</div>
+                </div>
+                <div class="subject-card" onclick="selectSubject('Milliy tarbiya asoslari')">
+                    <h3>Milliy tarbiya asoslari</h3>
+                    <div class="meta">150 savol</div>
+                </div>
+                <div class="subject-card" onclick="selectSubject('Pedagogika psixologiya')">
+                    <h3>Pedagogika psixologiya</h3>
+                    <div class="meta">151 savol</div>
+                </div>
+                <div class="subject-card" onclick="selectSubject('Deviant xulq atvor')">
+                    <h3>Deviant xulq atvor</h3>
+                    <div class="meta">150 savol</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Level Selection View -->
+        <div id="level-view" style="display: none;">
+            <div class="quiz-header">
+                <button class="back-btn" onclick="showSubjects()">← Orqaga</button>
+                <h2 id="selected-subject-title"></h2>
+            </div>
+            <p>Tayyorgarlik darajasini tanlang (har birida 50 ta savol):</p>
+            
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="startQuiz(1)">
+                    <h3>1-daraja</h3>
+                    <div class="meta">1 - 50 savollar</div>
+                </div>
+                <div class="subject-card" onclick="startQuiz(2)">
+                    <h3>2-daraja</h3>
+                    <div class="meta">51 - 100 savollar</div>
+                </div>
+                <div class="subject-card" onclick="startQuiz(3)">
+                    <h3>101-150-daraja</h3>
+                    <div class="meta">101 - 150 savollar</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- High Scores View -->
+        <div id="scores-view" style="display: none;">
+            <div class="quiz-header">
+                <button class="back-btn" onclick="showSubjects()">← Orqaga</button>
+                <h2>Eng yaxshi natijalar</h2>
+            </div>
+            <div id="scores-container" class="scores-list">
+                <!-- Scores will be injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentSubject = '';
+
+        // Theme Logic
+        function toggleTheme() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateThemeIcon(newTheme);
+        }
+
+        function updateThemeIcon(theme) {
+            const btn = document.getElementById('theme-btn');
+            btn.innerHTML = theme === 'dark' ? '<i class="fas fa-sun"></i>' : '<i class="fas fa-moon"></i>';
+        }
+
+        // Initialize theme
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        updateThemeIcon(savedTheme);
+
+        function selectSubject(subject) {
+            currentSubject = subject;
+            document.getElementById('subject-view').style.display = 'none';
+            document.getElementById('level-view').style.display = 'block';
+            document.getElementById('scores-view').style.display = 'none';
+            document.getElementById('selected-subject-title').innerText = subject;
+            localStorage.setItem('selectedSubject', subject);
+        }
+
+        function showSubjects() {
+            document.getElementById('subject-view').style.display = 'block';
+            document.getElementById('level-view').style.display = 'none';
+            document.getElementById('scores-view').style.display = 'none';
+        }
+
+        function toggleHighScores() {
+            const subjectView = document.getElementById('subject-view');
+            const scoresView = document.getElementById('scores-view');
+            const levelView = document.getElementById('level-view');
+
+            if (scoresView.style.display === 'none') {
+                subjectView.style.display = 'none';
+                levelView.style.display = 'none';
+                scoresView.style.display = 'block';
+                displayScores();
+            } else {
+                showSubjects();
+            }
+        }
+
+        function displayScores() {
+            const container = document.getElementById('scores-container');
+            const scores = JSON.parse(localStorage.getItem('psix_high_scores') || '[]');
+            
+            if (scores.length === 0) {
+                container.innerHTML = '<p class="meta">Hozircha natijalar yo\'q.</p>';
+                return;
+            }
+
+            container.innerHTML = scores
+                .sort((a, b) => b.score - a.score)
+                .slice(0, 10)
+                .map(s => `
+                    <div class="score-row">
+                        <span class="score-name">${s.subject} (${s.level}-daraja)</span>
+                        <span class="score-value">${s.score} / ${s.total}</span>
+                    </div>
+                `).join('');
+        }
+
+        function startQuiz(level) {
+            localStorage.setItem('selectedLevel', level);
+            window.location.href = 'quiz.html';
+        }
+    </script>
+</body>
+</html>

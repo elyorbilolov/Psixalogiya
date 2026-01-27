@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - Savollar</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="top-controls">
+        <div class="timer-container" id="timer-box" style="display: none;">
+            <i class="fas fa-clock timer-icon"></i>
+            <span id="timer-text">01:00</span>
+        </div>
+        <button class="theme-toggle" onclick="toggleTheme()" id="theme-btn">
+            <i class="fas fa-moon"></i>
+        </button>
+    </div>
+
+    <div class="container" id="quiz-container">
+        <div class="quiz-header">
+            <button class="back-btn" onclick="location.href='index.html'">← Orqaga</button>
+            <div id="subject-title"></div>
+        </div>
+
+        <div class="progress-container">
+            <div class="progress-bar" id="progress-bar"></div>
+        </div>
+
+        <!-- Question Area -->
+        <div id="question-area">
+            <div class="question-text" id="question-text"></div>
+            <div class="options-list" id="options-list"></div>
+        </div>
+
+        <!-- Result Area -->
+        <div id="result-area" style="display: none;" class="result-screen">
+            <h2>Natija</h2>
+            <div class="result-score" id="result-score"></div>
+            <p id="result-text"></p>
+            
+            <div id="mistakes-review" class="mistakes-container" style="display: none;">
+                <h3>Xatolar tahlili:</h3>
+                <div id="mistakes-list"></div>
+            </div>
+
+            <div class="action-btns">
+                <button class="restart-btn" onclick="location.href='index.html'">Asosiy sahifa</button>
+                <button class="back-btn" onclick="location.reload()">Qayta boshlash</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Theme Persistence on Quiz Page
+        function updateThemeIcon(theme) {
+            const btn = document.getElementById('theme-btn');
+            if (btn) btn.innerHTML = theme === 'dark' ? '<i class="fas fa-sun"></i>' : '<i class="fas fa-moon"></i>';
+        }
+
+        function toggleTheme() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateThemeIcon(newTheme);
+        }
+
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        updateThemeIcon(savedTheme);
+    </script>
+    <script type="module" src="script.js"></script>
+</body>
+</html>
