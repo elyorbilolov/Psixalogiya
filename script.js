@@ -40,11 +40,19 @@ async function init() {
             return;
         }
 
-        const itemsPerLevel = 50;
-        const startIndex = (currentLevel - 1) * itemsPerLevel;
-        const endIndex = startIndex + itemsPerLevel;
+        // Try to filter by "Daraja" field first (e.g., "Daraja-1")
+        const levelTag = `Daraja-${currentLevel}`;
+        let filteredQuestions = subjectQuestions.filter(q => q.Daraja && q.Daraja === levelTag);
+
+        // Fallback to index-based slicing if "Daraja" field is not used or empty for this level
+        if (filteredQuestions.length === 0) {
+            const itemsPerLevel = 50;
+            const startIndex = (currentLevel - 1) * itemsPerLevel;
+            const endIndex = startIndex + itemsPerLevel;
+            filteredQuestions = subjectQuestions.slice(startIndex, endIndex);
+        }
         
-        questions = subjectQuestions.slice(startIndex, endIndex);
+        questions = filteredQuestions;
 
         if (questions.length === 0) {
             alert('Ushbu daraja uchun savollar hali qo\'shilmagan.');
