@@ -46,7 +46,7 @@ async function init() {
 
         // Fallback to index-based slicing if "Daraja" field is not used or empty for this level
         if (filteredQuestions.length === 0) {
-            const itemsPerLevel = 50;
+            const itemsPerLevel = 30;
             const startIndex = (currentLevel - 1) * itemsPerLevel;
             const endIndex = startIndex + itemsPerLevel;
             filteredQuestions = subjectQuestions.slice(startIndex, endIndex);
