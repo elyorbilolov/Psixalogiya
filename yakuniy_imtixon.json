@@ -1,0 +1,1002 @@
+[
+  {
+    "№": "1",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "1.Pedagogik mahorat nima?",
+    "Togri_javob": "Kasbiy ko‘nikma va malakalar yig‘indisi",
+    "Notogri_javob1": "Pedagogning shaxsiy xususiyatlari yig‘indisi",
+    "Notogri_javob2": " Kasbiy bilimdonlik",
+    "Notogri_javob3": "Jamoaga va ayrim o‘quvchiga ta’sir ko‘rsatish"
+  },
+  {
+    "№": "2",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "2.Pеdаgоgik mаhоrаtning  muhim  elеmеnti nimа?",
+    "Togri_javob": "Pеdаgоgik  tехnikа ",
+    "Notogri_javob1": " Pеdаgоgik  mulоqоt",
+    "Notogri_javob2": "Pеdаgоgik  fаоliyat",
+    "Notogri_javob3": "Mimikа"
+  },
+  {
+    "№": "3",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "3.Pedagogik nazokatda takt so’zi qanday ma’noni bildiradi?",
+    "Togri_javob": "O’qituvchining adolat mezoni, or-nomus, izzat-nafs, ma’naviy bilimi ",
+    "Notogri_javob1": "O’qituvchining o’quvchilar oldida tashqi qiyofasini namoyon etishi",
+    "Notogri_javob2": " Ixtisoslikka doir vijdonlilik, adolatparvarlik",
+    "Notogri_javob3": " Demokratik talablar asosida o’quvchilarga pedagogik ta’sir o’tkazish"
+  },
+  {
+    "№": "4",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "4. “Takrorlash - bilishning asosidir”. Ushbu ibora qaysi pedagog olimning fikriga mansub?",
+    "Togri_javob": " Ushinskiy",
+    "Notogri_javob1": "Hamza",
+    "Notogri_javob2": "Komenskiy",
+    "Notogri_javob3": " Shakuriy"
+  },
+  {
+    "№": "5",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "5. Pеdаgоgik  mаhоrаt kоmpоnеntlаri  qаysi  qаtоrdа   to’g’ri  ko’rsаtilgаn?",
+    "Togri_javob": "Lоyihаlаsh,  kоnstruksiyalаsh, tаshkilоt’chilik, mulоqоt, rеflеktivlik.",
+    "Notogri_javob1": "Lоyihаlаsh, mulоqоt",
+    "Notogri_javob2": "Lоyihаlаsh, tаshkilоt’chilik",
+    "Notogri_javob3": "Lоyihаlаsh, bilim  vа  rеflеktivlik"
+  },
+  {
+    "№": "6",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "6. O’qituvchining rahbar sifatidagi boshqaruv usuli qaysi qatorda to’g’ri ko‘rsatilgan?",
+    "Togri_javob": " Avtoritar, demokratik, liberal",
+    "Notogri_javob1": " Xabar berish, ma’lumot olish, hikoya qilish, suhbat o‘tkazish",
+    "Notogri_javob2": " Yoqtirish-yoqtirmaslik, do‘stlik, o‘zaro hurmat, salbiy munosabat",
+    "Notogri_javob3": " O’zlarini tushunish, yolg‘on xushomad qilish"
+  },
+  {
+    "№": "7",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "7. Pedagog kasbini tanlagan kishi qanday sifatlarga ega bo‘lishi kerak?",
+    "Togri_javob": " Bolalarni sevishi, xushmuomala, kuzatuvchi, keng fikr yurituvchi, so‘zlarni to‘g‘ri talaffuz qiluvchi, jismonan baquvvat va sog‘lom, asablari mustahkam",
+    "Notogri_javob1": "Sog‘lom bo‘lishi, so‘zlarni to‘g‘ri va yaxshi talaffuz qila olishi",
+    "Notogri_javob2": "O’z fanini mustahkam egallashi, nutqi ravon bo’lishi",
+    "Notogri_javob3": " Kuzatuvchi, yordamchi"
+  },
+  {
+    "№": "8",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "8. Kommunikativ qobiliyat bu – ",
+    "Togri_javob": "Muomala va muloqot  o'rnata olish  mahorati",
+    "Notogri_javob1": " Qisqa daqiqalarda auditoriya (sinf) holatini idrok qila olish fazilati",
+    "Notogri_javob2": " Oson yo'l bilan murakkab bilimlarni o'quvchilarga tushuntira olishi",
+    "Notogri_javob3": " Barcha fanlar yuzasidan muayyan bilimga ega bo'lishlik"
+  },
+  {
+    "№": "9",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "9. Gapirish texnikasining xususiyatini aniqlang.",
+    "Togri_javob": "Axborot berish",
+    "Notogri_javob1": "Nafasni rostlash",
+    "Notogri_javob2": " Tashqi dunyoga munosabat bildirish",
+    "Notogri_javob3": " Fikrni tinglash"
+  },
+  {
+    "№": "10",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "10.Nutqning vazifalarini aniqlang?",
+    "Togri_javob": "O’qituvchining nutqida, xatti-harakatida, o’quvchilar shaxsiga nisba­tan hurmat ehtiromning mavjudligi ",
+    "Notogri_javob1": " Lug’aviy jihatdan nutqning to’g’riligini ta’minlash.",
+    "Notogri_javob2": "O’qituvchi nutqining boyligi",
+    "Notogri_javob3": " Nutq vositasida olingan ma’lumotlarni idrok etish"
+  },
+  {
+    "№": "11",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "11.Quyidagilar orasidan pedagogik mahoratni shakllantirishni ta’minlovchi omil­larga kirmaydiganini aniqlang:",
+    "Togri_javob": "Fanlardan taqvimiy reja tuzish ",
+    "Notogri_javob1": "Ta’lim jarayonini demokratlashtirish va insonparvarlashtirish asosida o’z faoliyatini tashkil etish",
+    "Notogri_javob2": "Ta’lim oluvchilarning yosh, fiziologik, psixologik hamda shaxsiy xususiyatlarini hisobga olish, ularning faoliyatini ob’yektiv nazorat qilish va baholash",
+    "Notogri_javob3": "Mimik va pantomimik harakatlar, samimiylik, muomala odobi"
+  },
+  {
+    "№": "12",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "12.O’qituvchining nutqiy faoliyatida asosan nimalarga e’tibor beriladi?",
+    "Togri_javob": "Diapazon hajmi va nutq generatoriga ",
+    "Notogri_javob1": " Nutq generatoriga",
+    "Notogri_javob2": " Energetik ovozning hajmiga",
+    "Notogri_javob3": "So’zlash, mutolaa qilish va eshitishga"
+  },
+  {
+    "№": "13",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "13.Pedagogik faoliyatda mehnat malakasi deb nimaga aytiladi?",
+    "Togri_javob": "Kam vaqt va mehnatni sarf qilgan holda xatosiz, nazoratsiz operatsiyalarning bajarilishi ",
+    "Notogri_javob1": " Bir xil tarzda, ishchining tanasi, oyog’i, qo’li, barmoqlari bilan predmetni ko’chirish yoki ushlash uchun ketadigan jarayon",
+    "Notogri_javob2": "Tanaffuzsiz bitta yoki bir nechta inson harakat organlarining ish bajarishi",
+    "Notogri_javob3": " Egallagan bilimlarini o’zlarining hayotiy va amaliy faoliyatlarida qo’llay bilishi"
+  },
+  {
+    "№": "14",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "14. Pеdаgоgik  mаhоrаt kоmpоnеntlаri  qаysi  qаtоrdа   to’g’ri  ko’rsаtilgаn?",
+    "Togri_javob": "Lоyihаlаsh,  kоnstruksiyalаsh, tаshkilоt’chilik, mulоqоt, rеflеktivlik. ",
+    "Notogri_javob1": " Lоyihаlаsh,  kоnstruksiyalаsh",
+    "Notogri_javob2": "Tаshkilоt’chilik, mulоqоt, bilim  vа  rеflеktivlik",
+    "Notogri_javob3": "Lоyihаlаsh, tаshkilоt’chilik,  mulоqоt"
+  },
+  {
+    "№": "15",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "15.O’qituvchining o’quvchilar bilan sinf jamoasi ijodiy ishlarini bosh­qarishdagi tashkilotchiligi?",
+    "Togri_javob": "O’rganilayotgan har bir mavzuni isbotlash, yangiliklardan xabardor qilish, mavzularni to’g’ri tushuntirish ",
+    "Notogri_javob1": "O’quvchilarda ijodiy ishlarga nisbatan qiziqish paydo qilish",
+    "Notogri_javob2": "Darsni rang-barang, yangi uslublarda o’tish",
+    "Notogri_javob3": "O’quvchilarni reja asosida guruhlarga bo’lish"
+  },
+  {
+    "№": "16",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "16.Kasbiy bilimlar mukammal bo’lishi uchun nimalar talab etila­di?",
+    "Togri_javob": "Fanning metodologiyasini bilish, nazariy bilimlar, metodik bilimlar, ta’limning texnologik tomonini o’rganish",
+    "Notogri_javob1": " Kasbiy qobili­yat­larga ega bo’lish",
+    "Notogri_javob2": "Fan metodologiyasi, nazariy bilimlar ",
+    "Notogri_javob3": "Pedagogik qobiliyatga asoslangan ta’lim va tarbiyaviy rejalarni mukam­mal tuzish."
+  },
+  {
+    "№": "17",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "17.Individual pedagogik texnikani shakllantirishda nimalar e’tiborga olinadi?",
+    "Togri_javob": "O’qituvchining yoshi, jinsi, mijozi, fe’l-atvori, salomatligi, anatomik va fiziologik xususiyati",
+    "Notogri_javob1": "O’qituvchining o’z-o’zini boshqarishda erishadigan yutuqlari, pedagogik mahorati",
+    "Notogri_javob2": "Metodik bilimlar, ta’limning texnologik tomoni, kasbiy qobili­yat­larga ega bo’lish.",
+    "Notogri_javob3": "Pedagogik mahoratni mukammal egallash uchun mehnat ko’nikmasi va malakalarini shakllantirish"
+  },
+  {
+    "№": "18",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "18.Pedagog o’zining qaysi tomonlarini boshqarishni o’rganishi kerak?",
+    "Togri_javob": "Ruhiyatini, mahoratini",
+    "Notogri_javob1": " Ovozini",
+    "Notogri_javob2": " Tembrini, diksiyasini",
+    "Notogri_javob3": " Ritmni"
+  },
+  {
+    "№": "19",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "19.O’qituvchi o’quvchilarni o’zi bilan hamkorlikka jalb eta oli­shi uchun nima qilishi kerak?",
+    "Togri_javob": "Pedagogik faoliyat o’quvchilarning yosh xususiyatlariga va qizi­qish­lariga to’g’ri kelishi lozim",
+    "Notogri_javob1": " O’quvchilarni o’z-o’zini boshqarishga o’rgatishi",
+    "Notogri_javob2": "O’quvchilarning salomatligiga e’tibor berishi",
+    "Notogri_javob3": "O’quvchilarning ma’naviy bilimini oshirishi"
+  },
+  {
+    "№": "20",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "20.Inson qobiliyatiga to’g’ri tavsif berilgan javobni toping:",
+    "Togri_javob": "Qobiliyat – shaxsning muayyan faoliyat yuzasidan layoqati va uning ishni muvaffaqiyatli bajarishdagi sub’yektiv shart-sharoitini ifoda­lovchi individual psixik sifatlar yig’indisidir",
+    "Notogri_javob1": "Qobiliyat – o’qituvchi o’z pedagogik faoliyatini mukammal reja­lashtira olishi demakdir",
+    "Notogri_javob2": " Qobiliyat – odamlarning yuksak psixik holati ",
+    "Notogri_javob3": " Qobiliyat – o’qituvchining pedagogik faoliyati "
+  },
+  {
+    "№": "21",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "21.Quyidagilar orasudan pedagogik qobiliyatning asosiy sifatlari bo’la olmaydiganini aniqlang:",
+    "Togri_javob": "O’z mehnatiga ijobiy yondashishi ",
+    "Notogri_javob1": " O’z kasbiga muhabbat, o’quvchilarni seva olish, mutaxassisligi bo’yicha puxta bilimga ega bo’lishi.",
+    "Notogri_javob2": " Pedagogik takt va pedagogik nazokatga ega bo’lish, pedagogik tex­nikani qo’llay olishi",
+    "Notogri_javob3": "Nutq madaniyati, munosabatga kirishish madaniyati, o’z-o’zini boshqarishi"
+  },
+  {
+    "№": "22",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "22.O’qituvchi pedagogik qobiliyatini namoyon etuvchi yordamchi xususiyatni belgilang?",
+    "Togri_javob": "Aql-idrokning muayyan turlari: hozirjavoblik, sobitqadamlik",
+    "Notogri_javob1": " Maqsadga erishishi",
+    "Notogri_javob2": "Shaxslararo va texnik tizimlararo aloqa",
+    "Notogri_javob3": " Vaqtni, harakat sur’atini his etishi"
+  },
+  {
+    "№": "23",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "23.   Nutqiy qobiliyat – ",
+    "Togri_javob": " Ixcham, ma'noli, ohangdor, muayyan ritm, tempga ega bo'lgan nutq, nutqning mantiqiy ifodaliligi",
+    "Notogri_javob1": "Oson yo'l bilan murakkab bilimlarni o'quvchilarga tushuntira olish.",
+    "Notogri_javob2": " Qisqa daqiqalarda auditoriya (sinf) holatini idrok qila olish fazilati",
+    "Notogri_javob3": "  Barcha fanlar yuzasidan muayyan bilimga ega bo'lishlik"
+  },
+  {
+    "№": "24",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "24. Ongli ravishda yuzaga keltirilgan pedagogik vaziyat bosqich­larini oldindan rejalashtirish nima?",
+    "Togri_javob": "Konstruktiv qobiliyat",
+    "Notogri_javob1": " Pedagogik texnika",
+    "Notogri_javob2": " Kreativlik",
+    "Notogri_javob3": "Pedagogik mahorat"
+  },
+  {
+    "№": "25",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-1",
+    "Savol ": "25.Perseptiv qobiliyat nima?",
+    "Togri_javob": "Tashqi olamni va muhitni sezish",
+    "Notogri_javob1": "Shaxslararo va texnik tizimlararo",
+    "Notogri_javob2": "O’quvchilar jamoasini boshqarish",
+    "Notogri_javob3": " Dars olib borish"
+  },
+  {
+    "№": "26",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "26.Muloqot so’zining lug’aviy ma’nosi nima?",
+    "Togri_javob": "Suhbatlashuv, shaxslararo suhbat",
+    "Notogri_javob1": " Bahslashuv",
+    "Notogri_javob2": "Monolog",
+    "Notogri_javob3": " Kayfiyat"
+  },
+  {
+    "№": "27",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "27. Muloqot so’zi qaysi tildan olingan?",
+    "Togri_javob": "Yunon",
+    "Notogri_javob1": "Rus",
+    "Notogri_javob2": " Grek",
+    "Notogri_javob3": " Ingliz"
+  },
+  {
+    "№": "28",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "28. Berilgan javoblardan qaysi biri o’qituvchining avtoritar usu­lida sinf jamoasini boshqaruviga tegishli?",
+    "Togri_javob": "O’qituvchi yakka holda guruh faoliyatini belgilaydi, o’quv­chi­larning so’zsiz bo’ysunishini da’vo qiladi",
+    "Notogri_javob1": "O’quvchilarga ishonch bildiradi, shaxs sifatida ularni hurmat qiladi, ammo talabchanlikni susaytiradi",
+    "Notogri_javob2": "O’qituvchi o’quvchilarni o’z holiga tashlab qo’yadi, sinfni o’qi­tuv­­chi emas, o’quvchilar o’z istaganlaricha boshqaradilar",
+    "Notogri_javob3": "Pedagogik faoliyatda sinf jamoasining fikr mulohazalariga taya­nib, ta’lim-tarbiyaviy ishlarni olib boradi"
+  },
+  {
+    "№": "29",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "29.O’qituvchi va o’quvchi muloqotini bog’lovchi asosiy vosita nima?",
+    "Togri_javob": "Nutq",
+    "Notogri_javob1": " Dialog",
+    "Notogri_javob2": "Deklamatsiya",
+    "Notogri_javob3": " So’z"
+  },
+  {
+    "№": "30",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "30.Qobiliyat bilimdan farq qiladi, bilim – bu ...",
+    "Togri_javob": "Ilmiy mutolaa natijasidir",
+    "Notogri_javob1": "Igna bilan quduq qazishdir",
+    "Notogri_javob2": " Inson umrini bezovchi bezakdir",
+    "Notogri_javob3": "Qorong’i yo’llarni yoritguvchi chiroqdir"
+  },
+  {
+    "№": "31",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "31.O’qituvchining pedagogik nazokatida muhim ahamiyatga ega bo’lgan xususiyatni belgilang?",
+    "Togri_javob": "Sinf jamoasida ongli intizomni vujudga keltirish va haqiqiy muloqot madaniyatiga erishishi",
+    "Notogri_javob1": "Rag’batlantirish va jazolashi",
+    "Notogri_javob2": "Atrof-muhitni kuzatib baholashi",
+    "Notogri_javob3": "Nutq madaniyatiga doir bilimlari"
+  },
+  {
+    "№": "32",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "32. Gnostik qobiliyat nima ? ",
+    "Togri_javob": " O’qituvchining ilmiy - tadqiqotga layoqatliligi",
+    "Notogri_javob1": "Muayyan bilimga ega bo'lishlik",
+    "Notogri_javob2": "Oson yo'l bilan murakkab bilimlarni o'quvchilarga tushuntira olish",
+    "Notogri_javob3": " Sinf guruhini uyushtirish va boshqarish iste'dodi"
+  },
+  {
+    "№": "33",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "33.O’qituvchi ijodkorligida namoyon bo’luvchi komponentlar – bu ...?",
+    "Togri_javob": "Evristik, mahsuldor, kreativ",
+    "Notogri_javob1": " Aksiologik, akmeologik",
+    "Notogri_javob2": "Tizimli, majmuaviy",
+    "Notogri_javob3": "Organik, noorganik"
+  },
+  {
+    "№": "34",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "34.Keyinchalik pedagogik qobiliyatga aylanadigan layoqat nishonalarining majmui bu...?",
+    "Togri_javob": "Insonning iste’dodi",
+    "Notogri_javob1": " Insonning boyligi",
+    "Notogri_javob2": " Insonning nutqi",
+    "Notogri_javob3": " Insonning layoqati"
+  },
+  {
+    "№": "35",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "35. Pedagogik texnikaning tarkibiy qismlariga nimalar kiradi?",
+    "Togri_javob": "Nutq malakalari, mimika va pantomimika, hissiy psixik holat",
+    "Notogri_javob1": "Ko’nikma va malaka",
+    "Notogri_javob2": " Ta’lim-tarbiya, ma’lumot",
+    "Notogri_javob3": "Pedagogik texnikalar"
+  },
+  {
+    "№": "36",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "36. Rassomga, matematika o’qituvchisiga, adabiyotshunosga xos bo’lgan qobiliyatning yetakchi xususiyati bu...?",
+    "Togri_javob": "Fantaziyani ishlata olish",
+    "Notogri_javob1": " So’z boyligining teranligi",
+    "Notogri_javob2": "Atrof-muhitni kuzatib baholash",
+    "Notogri_javob3": "Ijodiy tasavvur qilishi"
+  },
+  {
+    "№": "37",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "37.  Mimika nima ? ",
+    "Togri_javob": "Yuz muskullari orqali o'z sezgisi, fikri kayfiyatini ifodalash (yuz ifodasi)",
+    "Notogri_javob1": "Gavda, qo'l va oyoqlarning harakati",
+    "Notogri_javob2": "O’qituvchining gavda harakatlari va yuz ifodasi",
+    "Notogri_javob3": "O’z hatti–harakatlarini boshqara olish malaka va ko'nikmalari"
+  },
+  {
+    "№": "38",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "38. Pedagogik takt nima ? ",
+    "Togri_javob": "  O'quvchilar faoliyatining turli doiralarida ular bilan muloqotda bo'lishning pedagogik tamoyili, o'lchovi, o'quvchilar bilan ularning shaxsiy xususiyatlarini hisoga olgan holda to'g'ri muloqotda bo'la olish malakasi",
+    "Notogri_javob1": " Pedagogik jihatdan yondoshish uchun zarur bo'lgan malakalar",
+    "Notogri_javob2": "Pedagogik ta'sir o'tkazishni samarali qo'llash uchun zarur bo'lgan malaka va ko'nikmalar majmuasi",
+    "Notogri_javob3": "Ilmiy loyihalashtirilgan pedagogik harakat"
+  },
+  {
+    "№": "39",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "39. Modul nima?",
+    "Togri_javob": "Modul lotincha «modulus» so'zidan olingan bo'lib qism, bo’lak  ma'nolarini anglatadi.",
+    "Notogri_javob1": "Modul lotincha «modulus» so'zidan olingan bo'lib boshlanish ma'nosini",
+    "Notogri_javob2": " Modul lotincha «modulus» ya'ni o'zlashtirish darajasi",
+    "Notogri_javob3": "Modul lotincha «modulus» ya'ni mezon ma'nosini anglatadi"
+  },
+  {
+    "№": "40",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "40. «Eng yomon kishilar ilmiga amal qilmaydurgan kishilar»,-demishlar. Agar tarbiya qiluvchi muallim o'zi olim bo'lub, amalsiz bo'lsa, buning ham shogirdlarning axloqiga zo'r ta'siri bo'ladur». Ushbu misralar muallifi va asari nomini toping ? ",
+    "Togri_javob": " Avloniy. «Turkiy guliston yohud axloq».",
+    "Notogri_javob1": " A. Farobiy. «Fozil odamlar shahri».",
+    "Notogri_javob2": "A. Navoiy. «Mahbub-ul-qulub».",
+    "Notogri_javob3": "   Kaykovus. «Qobusnoma»."
+  },
+  {
+    "№": "41",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "41.Kommunikativ munosabatda ishontirishiing qanday faoliyat shakllari mavjud?",
+    "Togri_javob": "Bahs, munozara, suhbatda o’qituvchining dalillashi, isbot va mantiqqa tayanishi ",
+    "Notogri_javob1": "Nutq madaniyati, munosabatga kirishish madaniyati, o’z-o’zini boshqarish munosabati",
+    "Notogri_javob2": "Mavzu bo’yicha topshiriq berish, uni mashq qilish, o’quvchilarni baholash va rag’batlantirish.",
+    "Notogri_javob3": "Ovozning o’zgarishi, talaffuz, nutq ohangi"
+  },
+  {
+    "№": "42",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "42. “Relaksatsiya” qanday holat?",
+    "Togri_javob": "Jismonan va ruhan bo’shashish, butunlay osoyishtalik",
+    "Notogri_javob1": "Jizzakilik va asabiylik, o’zini boshqara olmaslik",
+    "Notogri_javob2": "Jismoniy charchash, baqirish yoki so’kish",
+    "Notogri_javob3": "Jismonan va ruhan tetiklik, jizzakilik"
+  },
+  {
+    "№": "43",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "43.Pedagoglik kasbining o‘ziga xos mahorat talabining ahamiyati",
+    "Togri_javob": "Ta’lim-tarbiya samaradorligini ta’minlaydi",
+    "Notogri_javob1": "O‘quvchilarni har tomonlama tayyorlaydi",
+    "Notogri_javob2": " O‘quvchilarning bilim saviyasini oshiradi",
+    "Notogri_javob3": " Jamiyat talablarini bajaradi"
+  },
+  {
+    "№": "44",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "44.Pedagogik mahorat qanday hosil qilinadi?",
+    "Togri_javob": "O‘qish, o‘rganish, mashq qilish, tajriba",
+    "Notogri_javob1": "O‘qish va o‘rganish",
+    "Notogri_javob2": "O’rganish, mashq qilish",
+    "Notogri_javob3": "Tajriba asosida"
+  },
+  {
+    "№": "45",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "45.Bolalarni tushunish bu nima?",
+    "Togri_javob": "Bolalar pozitsiyasida bo‘lib, ularni tushunish, his tuyg‘usini qadrlash, tashvish va ishlarini jiddiy deb qabul qilish va bu bilan hisoblashishi",
+    "Notogri_javob1": "Bolalarni fikrini qo‘llab-quvvatlash",
+    "Notogri_javob2": " Bolalarni hurmat qilish",
+    "Notogri_javob3": "Tashvishi va quvonchi bilan hamnafas bo‘lish"
+  },
+  {
+    "№": "46",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "46. «Pedagogik mahorat» tushunchasiga berilgan to'g'ri ta'rifni toping: ",
+    "Togri_javob": "Pedagogik jarayonni bilish, uni tashkil eta olish va harakatga keltira olish, pedagogik jarayonning yuqori samaradorligini belgilovchi shaxsning ish sifati va xususiyatlari sintezi",
+    "Notogri_javob1": " Har bir ta'lim oluvchiga va jamoaga pedagogik ta'sir o'tkazishni samarali qo'llash uchun zarur bo'lgan malaka va ko'nikmalar majmuasi.",
+    "Notogri_javob2": " O’quvchilar faoliyatining turli doiralarida ular bilan muloqotda bo'lishning pedagogik tamoyili, o'quvchilar bilan to'g'ri muloqotda bo'la olish malakasi",
+    "Notogri_javob3": "  Muayyan toifadagi vazifalarni hal qilish imkoniyatiga ega bo'lgan mutaxassisning kasbiy pedagogik tayyorgarligi"
+  },
+  {
+    "№": "47",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "47. O’qituvchining kasbiy faoliyatida namoyon bo’luvchi xususiyatlar?",
+    "Togri_javob": "O’z kasbini, bolalarni sevishi, ziyrakligi va hozirjavobligi",
+    "Notogri_javob1": "Pedagogik nazokati, tasavvuri",
+    "Notogri_javob2": " Notiqlik madaniyati, ijodkorligi ",
+    "Notogri_javob3": " Intellekti, ma’naviy ehtiyoji"
+  },
+  {
+    "№": "48",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "48.“O’qituvchi muntazam fan bilan shug’ullanmog’i lozim, aks holda u qurigan daraxt va toshga o’xshab qoladi ”. Ushbu fikr muallifi kim?",
+    "Togri_javob": "Adol’f Disterverg",
+    "Notogri_javob1": "Abdulla Avloniy",
+    "Notogri_javob2": " V.A.Suxomlinskiy ",
+    "Notogri_javob3": "Yan Amos Komenskiy"
+  },
+  {
+    "№": "49",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "49. Nutq madaniyati deganda nimani tushunish zarur?",
+    "Togri_javob": "Og'zaki va yozma adabiyot til me'yorlarini egallash, nutqning mazmuni va maqsadiga qarab  turli muomala sharoitida til imkoniyatlaridan to'g'ri foydalana bilish",
+    "Notogri_javob1": "Pedagogning o'quvchilar ongi va hissiyotiga nutq orqali ta'sir eta olish mahorati",
+    "Notogri_javob2": "Pedagogning o'z tarbiyalanuvchilari bilan muloqotga kirisha olish mahorati",
+    "Notogri_javob3": "Pedagog va o'quvchilar jamoasi o'rtasida o'zaro birgalikdagi harakatning mazmunan axborot ayirboshlashdan iborat tizimi, usullari va malakalari"
+  },
+  {
+    "№": "50",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-2",
+    "Savol ": "50. Diksiya nima ? ",
+    "Togri_javob": " So'zlarni aniq, ravshan talaffuz etish, so'zlash usuli",
+    "Notogri_javob1": " Tovush hajmi, uning chegarasi",
+    "Notogri_javob2": "Tovush rangdorligi, yorqinligi, uning yumshoqligi va alohidaligi",
+    "Notogri_javob3": " So'zlayotganda  obrazga kirish, ovozni kerakli joyda pastlatish, ohista gapirish"
+  },
+  {
+    "№": "51",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "51.O’qituvchi o’quvchilar bilan muloqot jarayonida paydo bo’ladigan turli ziddiyatli vaziyatlarni bartaraf etishi uchun...?",
+    "Togri_javob": "Avvalo, o’z  iqtidoriga, pedagogik va psixologik mahoratiga tayanishi lozim",
+    "Notogri_javob1": "O’zi ishlayotgan o’quv muassasasi rahbariyatiga yordam so’rab murojaat qilishi kerak",
+    "Notogri_javob2": " Darhol tartibsiz o’quvchini topib unga nisbatan tarbiyaviy jazo metodini qo’llashi shart",
+    "Notogri_javob3": "  Ota-onasiga tanbeh berish"
+  },
+  {
+    "№": "52",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "52. Diapozon tushunchasi to'g'ri ifodalangan javobni toping.",
+    "Togri_javob": "Tovush hajmi bo'lib, uning chegarasi eng yuqori va quyi ohanglar bilan belgilanadi",
+    "Notogri_javob1": " So'zlayotganda obrazga kirish, ovozni kerakli joyda pastlatish, ohista gapirish",
+    "Notogri_javob2": " Tovush rangdorligi, yorqinligi, uning yumshoqligi va alohidaligi",
+    "Notogri_javob3": " So'zlarni aniq, ravshan talaffuz etish, so'zlash usuli"
+  },
+  {
+    "№": "53",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "53.Kompetensiya nima?",
+    "Togri_javob": "Mavjud bilim, ko‘nikma va malakalarni amalda qo‘llay olish qobiliyati",
+    "Notogri_javob1": " Mavjud bilimlarga egalik",
+    "Notogri_javob2": " Malakalarni kundalik faoliyatda qo‘llay olish layoqati",
+    "Notogri_javob3": " Malakalarni oshirib borish"
+  },
+  {
+    "№": "54",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "54. Tovush rangdorligi, yorqinligi, hamda uning yumshoqligi va alohidaligi …",
+    "Togri_javob": "Tembr",
+    "Notogri_javob1": "Taktika",
+    "Notogri_javob2": "Mimika",
+    "Notogri_javob3": "Diapozon"
+  },
+  {
+    "№": "55",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "55.Shaxslarning his-tuyg’usi va psixologik holatlarini qalbdan his etish qanday nomlanadi?",
+    "Togri_javob": "Empatiya ",
+    "Notogri_javob1": "Persepsiya",
+    "Notogri_javob2": "Pedagogik texnika",
+    "Notogri_javob3": "Simpatiya"
+  },
+  {
+    "№": "56",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "56. …tovush hajmi bo'lib, uning chegarasi eng yuqori va quyi ohanglar bilan belgilanadi.",
+    "Togri_javob": " Diapozon",
+    "Notogri_javob1": " Taktika",
+    "Notogri_javob2": " Mimika ",
+    "Notogri_javob3": "Pedagogik texnika"
+  },
+  {
+    "№": "57",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "57. Nutq …",
+    "Togri_javob": "O’qituvchi va o’quvchi muloqotini bog’lovchi asosiy vosita",
+    "Notogri_javob1": " Yordamchi vosita",
+    "Notogri_javob2": "So'zlash usuli",
+    "Notogri_javob3": " Insonning iqtidori"
+  },
+  {
+    "№": "58",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "58. Ixcham, ma'noli, ohangdor, muayyan ritm, tempga ega bo'lgan nutq, nutqning mantiqiy ifodaliligi…",
+    "Togri_javob": " Nutqiy qobiliyat",
+    "Notogri_javob1": "Mahorat",
+    "Notogri_javob2": "San’at",
+    "Notogri_javob3": " Xususiyat"
+  },
+  {
+    "№": "59",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "59. Qisqa daqiqalarda sinf holatini idrok qila olish fazilati …",
+    "Togri_javob": "Perseptiv qobiliyat",
+    "Notogri_javob1": " Insonning intellekti",
+    "Notogri_javob2": " Insonning iqtidori",
+    "Notogri_javob3": "Insonning layoqati"
+  },
+  {
+    "№": "60",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "60. Pеdаgоgik mаhоrаtning  muhim  elеmеnti nimа?",
+    "Togri_javob": "Pеdаgоgik  tехnikа",
+    "Notogri_javob1": "Pеdаgоgik  mulоqоt",
+    "Notogri_javob2": " Pеdаgоgik  fаоliyat",
+    "Notogri_javob3": "Uslub"
+  },
+  {
+    "№": "61",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "61. O'quv–tarbiya ishlarini rejalashtirish va natijasini oldindan ko'ra bilish…",
+    "Togri_javob": "Konstruktiv qobiliyat",
+    "Notogri_javob1": " Nutqiy qobiliyat",
+    "Notogri_javob2": "Perseptiv qobiliyat",
+    "Notogri_javob3": "Bashorat"
+  },
+  {
+    "№": "62",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "62.  Barcha fanlar yuzasidan muayyan bilimga ega bo'lishlik…",
+    "Togri_javob": "Akademik qobiliyat",
+    "Notogri_javob1": " O'z ustida ishlash",
+    "Notogri_javob2": "Nutqiy qobiliyat",
+    "Notogri_javob3": " Ijodkorlik"
+  },
+  {
+    "№": "63",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "63.Nutq madaniyatini egallashda qaysi biri eng muhimdir?",
+    "Togri_javob": "Nutqda xalq maqollari va iboralaridan unumli foydalanish",
+    "Notogri_javob1": "Adabiy tilda so'zlash ",
+    "Notogri_javob2": "Ona tilini mukammal egallash",
+    "Notogri_javob3": "Boshqa tillarni qo’sib gapirish"
+  },
+  {
+    "№": "64",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "64.Nutq texnikasini egallashda qaysi biri eng muhimdir?",
+    "Togri_javob": "Intonasiya (ohang)",
+    "Notogri_javob1": " Ovoz",
+    "Notogri_javob2": " Pauza",
+    "Notogri_javob3": "Nafas"
+  },
+  {
+    "№": "65",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "65.Qoloq o'quvchiga nisbatan qanday chora ko'rish kerak?",
+    "Togri_javob": "O'quvchining ota-onasidan yordam so'rash ",
+    "Notogri_javob1": "Maqtash yo'li bilan",
+    "Notogri_javob2": "Tanbeh berish",
+    "Notogri_javob3": "O'quvchini jazolash"
+  },
+  {
+    "№": "66",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "66.  O'qituvchining sinf jamoasini uyushtirishi va uni boshqara olishi …",
+    "Togri_javob": " Tashkilotchilik qobiliyati",
+    "Notogri_javob1": "Nutqiy qobiliyati",
+    "Notogri_javob2": "Akademik qobiliyati",
+    "Notogri_javob3": "  Didaktik qobiliyati"
+  },
+  {
+    "№": "67",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "67. O'qituvchining oson yo'l bilan murakkab bilimlarni o'quvchilarga tushuntira olishi..",
+    "Togri_javob": "Didaktik qobiliyati",
+    "Notogri_javob1": " Tashkilotchilik qobiliyati",
+    "Notogri_javob2": " Akademik qobiliyati",
+    "Notogri_javob3": " Nutqiy qobiliyati"
+  },
+  {
+    "№": "68",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "68. Pеdаgоgik  mаhоrаt  tug’mа  tаl’аnt  yoki  nаsldаn-nаslgа  o’tuv’chi   хususiyat  emаs, bаlki...",
+    "Togri_javob": "Izlаnish,  ijоdiy  mеhnаt  mаhsuli ",
+    "Notogri_javob1": " O’quv  mаshg’ulоti",
+    "Notogri_javob2": " Bir  qоlipdаgi  ish  usuli",
+    "Notogri_javob3": " Fikr аlmаshuv,  sаmimiyat  munоsаbаt"
+  },
+  {
+    "№": "69",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "69. Mudarris – mansab va amaldorlikka qiziqmasligi; o'zi bilmaydigan ilmdan dars berishga urunmasligi; manmanlik uchun dars berishga havas ko'rgizmasligi;  u yaramasliklardan hazar qilmog'i va nopok odamlardan uzoq yurmog'i … kerak. Ushbu jumlalar muallifi kim ? Qaysi asardan olingan ? ",
+    "Togri_javob": "A. Navoiy. «Mahbub-ul-qulub»",
+    "Notogri_javob1": " A. Avloniy. «Turkiy guliston yohud axloq»",
+    "Notogri_javob2": "A. Farobiy. «Fozil odamlar shahri»",
+    "Notogri_javob3": " Kaykovus. «Qobusnoma»."
+  },
+  {
+    "№": "70",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "70. Mаhоrаtning shаkllаnish  bоsqichlаri  qаysi  qаtоrdа  to’g’ri  ko’rsаtilgаn?",
+    "Togri_javob": "Rеprоduktivlik, ijоdiylik, ijоdiy  nоvаtоrlik ",
+    "Notogri_javob1": "Rеprоduktivlik",
+    "Notogri_javob2": "Rеprоduktivlik, iz’chillik, ",
+    "Notogri_javob3": "Rеprоduktivlik, ijоdiylik"
+  },
+  {
+    "№": "71",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "71. Kоmmunikаtiv qоbiliyat-bu  ...",
+    "Togri_javob": "Pеdаgоgik  o’zаrо  аlоqаlr dоirаsidаgi   o’zigа  хоs  nаmоyon  bo’lаdigаn  mulоqоt  qоbiliyatidir",
+    "Notogri_javob1": "Ko’rish  vа  sеzish hаmdа  bundаy  tushunishning dаrаjаsini  vа  хаrаktеrini o’rnаtish  qоbiliyati.",
+    "Notogri_javob2": "Irоdаgа  tа’sir  etа  оlish qоbiliyati",
+    "Notogri_javob3": " O’quv  mаtеriаlini  mustаqil  tаnlаb  оlish  hаmdа o’qitishning  sаmаrа  bеruv’chi  usul  vа   mеtоdlаrini  bеlgilаsh  qоbiliyati.."
+  },
+  {
+    "№": "72",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "72. “Nоtiq  haqida bilimlar” аsаri  kimgа  tеgishli?",
+    "Togri_javob": "Mаrk Fаbi  Kvintiliаn ",
+    "Notogri_javob1": "K.D. Ushinskiy",
+    "Notogri_javob2": "Yan Аmоs Kоmеnskiy",
+    "Notogri_javob3": "M. T. Pеstаlоtsiy"
+  },
+  {
+    "№": "73",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "73. Kommunikativ qobiliyatni namoyon etuvchi asosiy komponentni belgilang?",
+    "Togri_javob": " Nutq madaniyatiga doir bilimlar ",
+    "Notogri_javob1": "Mimika va pantomimika",
+    "Notogri_javob2": " O’z sohasi bo’yicha chuqur bilimga ega bo’lish",
+    "Notogri_javob3": " Pedagogik ta’sir ko’rsatish"
+  },
+  {
+    "№": "74",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "74. O’qituv’chining  kаsbiy  sifаti  nimа dеb  аtаlаdi?",
+    "Togri_javob": "Pеdаgоgik  mаhоrаt ",
+    "Notogri_javob1": "Pеdаgоgik  tаkt",
+    "Notogri_javob2": "  Umumiy  tаkt",
+    "Notogri_javob3": " Muоmаlа  yе’chimi"
+  },
+  {
+    "№": "75",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-3",
+    "Savol ": "75. Muоmаlаning eng muhim tаrkibiy  qismi bu-...",
+    "Togri_javob": "Mulоqоt",
+    "Notogri_javob1": "Fаоliyat",
+    "Notogri_javob2": "Munоsаbаt",
+    "Notogri_javob3": "Qоbiliyat"
+  },
+  {
+    "№": "76",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "76.  Qo‘l ostidagilarga mustaqillik, erk beruvchi, ishda topshiriqlar berganda ishchilarning qobiliyatini hisobga oluvchi, shaxsiy moyilliklarni ham hisobga oluvchi, buyruq yoki topshiriqlarni taklif ma’nosida beruvchi rahbar…?",
+    "Togri_javob": "Demokratik rahbar",
+    "Notogri_javob1": "Liberal rahbar",
+    "Notogri_javob2": "Avtoritar rahbar",
+    "Notogri_javob3": " Byurokrat rahbar"
+  },
+  {
+    "№": "77",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "77.  Pedagogik ta'sir ko'rsatishda talab qanday vazifani bajaradi? ",
+    "Togri_javob": "Tarbiyalanuvchilarda o'ziga nisbatan mas'uliyat va talabchanlikni rivojlantiradi",
+    "Notogri_javob1": " O'z xulq-atvorini boshqarishga o'rgatadi",
+    "Notogri_javob2": " Tarbiyalanuvchilarni foydali faoliyatga undaydi",
+    "Notogri_javob3": " O'quvchilarning qobiliyatlarini shakllantiradi"
+  },
+  {
+    "№": "78",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "78.  Ilg'or pedagogik tajriba nima ? ",
+    "Togri_javob": "  Pedagogning o'z vazifasiga ijodiy yondoshib, ta'lim-tarbiyada yangi, samarali yo'l va vositalarni topishi",
+    "Notogri_javob1": "  Pedagogik faoliyatning xarakterini belgilay olishi",
+    "Notogri_javob2": "  Yangi pedagogik qonuniyatlarni ochib berishi",
+    "Notogri_javob3": " Pedagogik ijodkorlik"
+  },
+  {
+    "№": "79",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "79. Ijobiy talablarni aniqlang. ",
+    "Togri_javob": " Iltimos, ishonch va ma'qullash, shartli talab",
+    "Notogri_javob1": " Fosh qilish, ishonchsizlik bildirish, qo'rqitish, do'q qilish",
+    "Notogri_javob2": "     Maslahat, ta'ma,",
+    "Notogri_javob3": "  Gina, shartli talab, iltimos"
+  },
+  {
+    "№": "80",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "80. Tovush, nutq elementlarining muntazam izchillikda, chastotada takrorlanishi…\n   \n    \n ",
+    "Togri_javob": "  Nutq ritmi",
+    "Notogri_javob1": "     Ovoz",
+    "Notogri_javob2": "      Ovoz tiniqligi",
+    "Notogri_javob3": "  Monolog"
+  },
+  {
+    "№": "81",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "81 .  «Pedagogik mahorat asoslari» fani qaysi yildan o'qitila boshlandi? ",
+    "Togri_javob": "1979",
+    "Notogri_javob1": "    1980",
+    "Notogri_javob2": " 1990",
+    "Notogri_javob3": "   1970"
+  },
+  {
+    "№": "82",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "82.Ongli ravishda yuzaga keltirilgan pedagogik vaziyat bosqich­larini oldindan rejalashtirish nima?",
+    "Togri_javob": "Konstruktiv qobiliyat",
+    "Notogri_javob1": " Pedagogik texnika",
+    "Notogri_javob2": "Kreativlik",
+    "Notogri_javob3": " Pedagogik mahorat"
+  },
+  {
+    "№": "83",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "83. O’qituvchining tashqi olamni va muhitni sezishi …",
+    "Togri_javob": "  Perseptiv qobiliyati ",
+    "Notogri_javob1": "Mahorati",
+    "Notogri_javob2": "Sezuvchanligi",
+    "Notogri_javob3": " Idrok"
+  },
+  {
+    "№": "84",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "84. Ixcham, ma'noli, ohangdor, muayyan ritm, tempga ega bo'lgan nutq, nutqning mantiqiy ifodaliligi …",
+    "Togri_javob": "Nutqiy qobiliyat",
+    "Notogri_javob1": " Gnostik qobiliyat",
+    "Notogri_javob2": "   Perseptiv qobiliyat",
+    "Notogri_javob3": " Kommunikativ qobiliyat"
+  },
+  {
+    "№": "85",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "85. Autotrening nima? \n",
+    "Togri_javob": " O’z-o’zini ishontirish, shaxsning o’z-o’zini boshqarishga qaratilgan mashqlar to’plami",
+    "Notogri_javob1": " Pedagogik malaka va ko’nikmalardan foydalana bilish mahorati",
+    "Notogri_javob2": "  Idrok qilish hissi, nazariy fikrlash va amaliy faoliyat birligi",
+    "Notogri_javob3": " Pedagogik faoliyat yuritish uchun zarur bo’lgan nazariy va amaliy tayyorlik birligi"
+  },
+  {
+    "№": "86",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "86. Pedagogik muloqot turlarini ko’rsating? ",
+    "Togri_javob": " O’zaro ijodiy faoliyatga qiziqtirishga asoslangan muloqot; do’stona muloqot; muloqot-masofa; muloqot qo’rqitish, muloqot-xazil-mutoyiba",
+    "Notogri_javob1": "  Muloqot masofa; muloqot qo’rqitish, muloqot-xazil- mutoyiba",
+    "Notogri_javob2": " O’zaro ijodiy faoliyatga qiziqtirishga asoslangan  muloqot; o’zini yuqori qo’yish; jonbozlik ko’rsatish",
+    "Notogri_javob3": "Ma'muriy-muloqot; muloqot-masofa; muloqot-qo’rqitish"
+  },
+  {
+    "№": "87",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "87.  Liberal uslubda boshqarishning oqibati nimalarga olib boradi? ",
+    "Togri_javob": " O’quvchilar bebosh, tartibsiz bo’ladilar, ularda yalqovlik kuchayadi, o’qituvchiga ishonch yo’qola borib, uni hurmat qilmay qo’yadilar",
+    "Notogri_javob1": "  O’quvchilar mustaqil fikrlay olmaydilar",
+    "Notogri_javob2": "Jamoa shakllantiriladi, o’quvchilar bir-birlari bilan samimiy munosabatda   bo’ladilar, o’qishga intiladilar",
+    "Notogri_javob3": "O’quvchilar o’z-o’zini boshqarishga mustaqil fikrlash va mustaqil o’qib-o’rganishga o’rganadilar, jamoa fikri va tashabbusga keng yo’l ochiladi"
+  },
+  {
+    "№": "88",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "88.  ... pedagogik faoliyatda mahorat juda muhim o’rin egallashini ta'kidlab, o’qituvchining shaxsiy fazilatlari, uning bilimlari, amaliy ko’nikma va malakalari o’zaro birlashib pedagogik mahoratni vujudga keltiradi, deb ta'kidlagan olim kim? ",
+    "Togri_javob": " A.I. Shcherbakov",
+    "Notogri_javob1": "  F.N.Gonobolin",
+    "Notogri_javob2": "  N.V.Kuzmina",
+    "Notogri_javob3": " S.R. Rajabov"
+  },
+  {
+    "№": "89",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "89. «Pedagogik test psixologiyasi» asarining muallifini toping? ",
+    "Togri_javob": "   I.V.Straxov",
+    "Notogri_javob1": "  V.A. Slastenin",
+    "Notogri_javob2": "  S.R Rajabov",
+    "Notogri_javob3": " N.V. Kuzmina"
+  },
+  {
+    "№": "90",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "90.   O’zbekistonda o’qituvchining pedagogik va psixologik xususiyatlarini tadqiq qilishga o’qituvchilar tayyorlashni takomillashtirishga oid ilmiy-tadqiqot olib borgan yirik olim nomini aniqlang? ",
+    "Togri_javob": "S.R. Rajabov",
+    "Notogri_javob1": "  M.G. Davletshin",
+    "Notogri_javob2": "  M.O. Ochilov",
+    "Notogri_javob3": "   R.Z. Gaynutdinov"
+  },
+  {
+    "№": "91",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "91. O’qituvchining pedagogik-psixologik xususiyatlari va shaxsiy fazilatlarini chuqur o’rganish qachondan boshlangan? ",
+    "Togri_javob": " XX asrning 30-40 yillarida",
+    "Notogri_javob1": "    XIX asrning oxirida",
+    "Notogri_javob2": "     XX asrning 70-80 yillarida",
+    "Notogri_javob3": "  XIX asr 50 yillarida"
+  },
+  {
+    "№": "92",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "92. Pedagogik takt nima? ",
+    "Togri_javob": "O’quvchilar faoliyatining turli doiralarida ular bilan muloqotda bo’lishning pedagogik tamoyili, o’lchovi, oquvchilar bilan ularning shaxsiy xususiyatlarini hisobga olgan holda to’g’ri muloqotda bo’la olish malakasi",
+    "Notogri_javob1": "Har bir ta'lim oluvchi va jamoaning faolligini pedagogik jihatdan ta'minlash uchun zarur bo’lgan ko’nikmalar",
+    "Notogri_javob2": " Har bir ta'lim oluvchiga va jamoaga pedagogik ta'sir o’tkazishni samarali qo’llash uchun zarur bo’lgan malaka",
+    "Notogri_javob3": " Pedagogning yutuqlariga kafolat beradigan aniq ishlab chiqilgan va qat'iy ilmiy loyihalashtirilgan pedagogik harakat"
+  },
+  {
+    "№": "93",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "93. Tembr nima ? ",
+    "Togri_javob": "   Tovush rangdorligi, yorqinligi, hamda uning yumshoqligi va alohidaligi",
+    "Notogri_javob1": " So’zlayotganda obrazga kirish ",
+    "Notogri_javob2": "Tovush hajmi, uning chegarasi",
+    "Notogri_javob3": " So’zlarni aniq, ravshan talaffuz etish"
+  },
+  {
+    "№": "94",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "94. Pedagog oldiga uning o‘ziga, kasbiga, jamiyatga, o‘quvchilarga va o‘quv-tarbiya jarayonining boshqa ishtirokchilariga munosabatda bo‘lishiga nisbatan qo‘yiladigan axloqiy talablar tizimi?",
+    "Togri_javob": " Pedagogik odob ",
+    "Notogri_javob1": "  Pedagogik tasavvur",
+    "Notogri_javob2": "Antipatiya",
+    "Notogri_javob3": " Pedagogik refleksiya  "
+  },
+  {
+    "№": "95",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "95. Shaxsning individual-psixologik xususiyati bo‘lib, muayyan faoliyat yuzasidan layoqati va ishni muvaffaqiyatli amalga oshirish sub’yektiv shart-sharoitini ifodalovchi individual psixik sifatlar yig‘indisi nima deb ataladi?",
+    "Togri_javob": "Qobiliyat ",
+    "Notogri_javob1": "Deklamatsiya",
+    "Notogri_javob2": "Pantomimika",
+    "Notogri_javob3": " Relaksatsiya"
+  },
+  {
+    "№": "96",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "96. Muosharat odobi deb nimaga aytiladi?",
+    "Togri_javob": "  Kishilarning bir-birlari bilan o‘zaro munosabatlarda shirinsuxanlik, go‘zallik, so‘zlashuv ohangidagi muloyimlik",
+    "Notogri_javob1": " Muayyan millat tilida bayon etilayotgan nutqda o‘zga millatlarga xos so‘zlarning noo‘rin qo‘llanilishi",
+    "Notogri_javob2": " O‘quvchilarning hissiy faoliyati, ruhiy-jismoniy quvvati va ishchanlik qobiliyatini qayta tiklash",
+    "Notogri_javob3": " Axborot muhitida zarur, muhim, kerakli, foydali ma’lumotlarni izlash, yig‘ish, saralash, qayta ishlash "
+  },
+  {
+    "№": "97",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "97.  O‘qituvchining pedagogik mahoratida quyidagi muhim kategoriyalarni ketma-ketlik asosida aniqlang: 1. tushunish\n2. sintez qilish\n3. bilish\n4. tahlil qilish\n5. baholash\n6. qo‘llash",
+    "Togri_javob": "  3,1,6,4,2,5",
+    "Notogri_javob1": "  1,2,3,4,5,6",
+    "Notogri_javob2": "    3,2,4,5,1,6",
+    "Notogri_javob3": "  5,4,3,1,2,6"
+  },
+  {
+    "№": "98",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "98. Qanday uslub asosida faoliyat olib boruvchi o‘qituvchi xususiyatlarida tashabbusning yo‘qligi, o‘z mustaqil fikriga ega emasligi, javobgarlikdan o‘zini olib qochish, o‘quvchilar kelajagiga, taqdiriga e’tiborsiz bo‘lish kabilar mavjud?",
+    "Togri_javob": "   Liberal uslub",
+    "Notogri_javob1": "Avtoritar uslub",
+    "Notogri_javob2": " Demokratik uslub",
+    "Notogri_javob3": " Majbur etish uslubi"
+  },
+  {
+    "№": "99",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "99. Dunyoqarash turlaridan qay biri uzluksiz, izchil ravishda insoniyat tomonidan orttirilgan, mavjud ilmiy bilimlarni puxta o‘zlashtirish asosida shakllanadi?",
+    "Togri_javob": "  Ilmiy dunyoqarash",
+    "Notogri_javob1": "  Mifologik dunyoqarash",
+    "Notogri_javob2": "    Ijtimoiy-siyosiy dunyoqarash",
+    "Notogri_javob3": "  Estetik dunyoqarash"
+  },
+  {
+    "№": "100",
+    "Fan_nomi": "Pedagogik mahorat",
+    "Daraja": "Daraja-4",
+    "Savol ": "100.“Pedagogik mahorat” kursining maqsadi nimadan iborat?",
+    "Togri_javob": "Mahoratli pedagogni tarbiyalash",
+    "Notogri_javob1": "Ta’lim-tarbiyani rivojlantirish",
+    "Notogri_javob2": " Tarbiyaviy ishlarni shakllantirish",
+    "Notogri_javob3": " Diniy jihatdan tarbiyalash"
+  }
+]

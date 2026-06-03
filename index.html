@@ -37,6 +37,12 @@
                     <h3>Yakuniy Testlar</h3>
                     <div class="meta" id="yakuniy-meta-count">Yuklanmoqda...</div>
                 </div>
+                <div class="subject-card category-card yakuniy-imtixon-main-card" onclick="showCategory('yakuniy_imtixon')">
+                    <div class="badge">Yangi</div>
+                    <div class="icon-wrapper"><i class="fas fa-file-invoice"></i></div>
+                    <h3>Yakuniy Imtihon</h3>
+                    <div class="meta" id="yakuniy-imtixon-meta-count">Yuklanmoqda...</div>
+                </div>
             </div>
         </div>
 
@@ -129,6 +135,24 @@
                 document.getElementById('yakuniy-meta-count').innerText = '5 ta fan mavjud';
             });
 
+        // Load Yakuniy Imtixon subjects count dynamically
+        fetch('yakuniy_imtixon.json')
+            .then(res => res.json())
+            .then(data => {
+                const subjectsMap = {};
+                data.forEach(q => {
+                    const name = q.Fan_nomi || "";
+                    if (name.trim() !== "") {
+                        subjectsMap[name] = true;
+                    }
+                });
+                const count = Object.keys(subjectsMap).length;
+                document.getElementById('yakuniy-imtixon-meta-count').innerText = `${count} ta fan mavjud`;
+            })
+            .catch(() => {
+                document.getElementById('yakuniy-imtixon-meta-count').innerText = '0 ta fan mavjud';
+            });
+
         function showCategory(type) {
             currentCategory = type;
             document.getElementById('category-view').style.display = 'none';
@@ -149,7 +173,7 @@
                         </div>
                     `;
                 });
-            } else {
+            } else if (type === 'yakuniy') {
                 title.innerText = 'Yakuniy Testlar';
                 fetch('yakuniy.json')
                     .then(res => res.json())
@@ -166,6 +190,32 @@
                         Object.keys(subjectsMap).forEach(name => {
                             container.innerHTML += `
                                 <div class="subject-card yakuniy-card" onclick="selectSubject('${name}', 'yakuniy.json', ${subjectsMap[name]})">
+                                    <h3>${name}</h3>
+                                    <div class="meta">${subjectsMap[name]} savol</div>
+                                </div>
+                            `;
+                        });
+                    })
+                    .catch(() => {
+                        container.innerHTML = '<div class="error">Xatolik yuz berdi.</div>';
+                    });
+            } else if (type === 'yakuniy_imtixon') {
+                title.innerText = 'Yakuniy Imtihon';
+                fetch('yakuniy_imtixon.json')
+                    .then(res => res.json())
+                    .then(data => {
+                        container.innerHTML = '';
+                        const subjectsMap = {};
+                        data.forEach(q => {
+                            const name = q.Fan_nomi || "";
+                            if (name.trim() !== "") {
+                                subjectsMap[name] = (subjectsMap[name] || 0) + 1;
+                            }
+                        });
+
+                        Object.keys(subjectsMap).forEach(name => {
+                            container.innerHTML += `
+                                <div class="subject-card yakuniy-imtixon-card" onclick="selectSubject('${name}', 'yakuniy_imtixon.json', ${subjectsMap[name]})">
                                     <h3>${name}</h3>
                                     <div class="meta">${subjectsMap[name]} savol</div>
                                 </div>

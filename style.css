@@ -466,6 +466,18 @@ h1 {
     border-left: 5px solid #00b894 !important;
 }
 
+.yakuniy-imtixon-main-card .icon-wrapper {
+    background: linear-gradient(135deg, #0984e3, #74b9ff);
+}
+
+.yakuniy-imtixon-card {
+    border-left: 5px solid #0984e3 !important;
+}
+
+.yakuniy-imtixon-main-card .badge {
+    background: #0984e3;
+}
+
 .badge {
     position: absolute;
     top: 10px;
